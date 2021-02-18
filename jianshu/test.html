@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        body{
+            margin: 0;
+            padding: 0;
+            display: flex;
+            overflow: hidden;
+            width: 100%;
+            height: 100vh;
+        }
+        iframe{
+            background: #abc;
+            width:50%;
+            height: 100vh;
+            border: 1px solid #ccc;
+        }
+        .deitDiv{
+            background: #cba;
+            width:50%;
+            height: 100vh;
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+
+
+
+<iframe src="" name="rachEdit" frameborder="0"/>
+<script>
+    window.addEventListener('load',function () {
+        frames['rachEdit'].document.designMode = 'on'
+    })
+</script>
+<div class="deitDiv" contenteditable="true"></div>
+</body>
+</html>

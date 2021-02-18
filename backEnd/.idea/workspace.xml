@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8f24bbf-3e50-484d-86ca-8a693ccfa0ea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aXCwVfQ8eKHrggb8YpMo3Mb1hT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8f24bbf-3e50-484d-86ca-8a693ccfa0ea" name="Default Changelist" comment="" />
+      <created>1586872789199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586872789199</updated>
+      <workItem from="1586872790483" duration="8523000" />
+      <workItem from="1586924883313" duration="13335000" />
+      <workItem from="1587011935637" duration="5629000" />
+      <workItem from="1587088885159" duration="5249000" />
+      <workItem from="1587188857016" duration="5707000" />
+      <workItem from="1587261658360" duration="9780000" />
+      <workItem from="1587300838482" duration="6972000" />
+      <workItem from="1587350155178" duration="8366000" />
+      <workItem from="1587432485220" duration="6830000" />
+      <workItem from="1587524526088" duration="965000" />
+      <workItem from="1587804753599" duration="824000" />
+      <workItem from="1587812030192" duration="62000" />
+      <workItem from="1588481834036" duration="1893000" />
+      <workItem from="1588643560290" duration="11661000" />
+      <workItem from="1590565026876" duration="679000" />
+      <workItem from="1590906881865" duration="592000" />
+      <workItem from="1590983756778" duration="594000" />
+      <workItem from="1591286197234" duration="1623000" />
+      <workItem from="1591291222549" duration="1913000" />
+      <workItem from="1591855272114" duration="1113000" />
+      <workItem from="1592059363787" duration="1216000" />
+      <workItem from="1593433195608" duration="489000" />
+      <workItem from="1593502741174" duration="6000" />
+      <workItem from="1598361008404" duration="2480000" />
+      <workItem from="1598455438755" duration="885000" />
+      <workItem from="1599377286359" duration="2435000" />
+      <workItem from="1599562038704" duration="2446000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../antdPro/node_modules/.staging/cross-port-killer-53eb1de4/test/test.js" />
+        <option value="$PROJECT_DIR$/../antdPro/node_modules/.staging/cross-port-killer-53eb1de4/test/test.d.ts" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="462" y="119" key="FileChooserDialogImpl" timestamp="1599389592336">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1591855821868" />
+    <state x="462" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1599389592336" />
+  </component>
+</project>
